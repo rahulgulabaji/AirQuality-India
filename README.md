@@ -84,12 +84,14 @@ pytest test_app.py
 
 ## Screenshots
 
-(You can add screenshots of your application here)
-
 ### Main Page
 
-![Main Page](path/to/your/screenshot.png)
+![Main Page](screenshots/Screenshot%202025-09-13%20123024.png)
 
 ### Prediction Result
 
-![Prediction Result](path/to/your/screenshot.png)
+![Prediction Result](screenshots/Screenshot%202025-09-13%20123515.png)
+
+![Prediction Result](screenshots/Screenshot%202025-09-13%20123529.png)
+
+![Prediction Result](screenshots/Screenshot%202025-09-13%20123553.png)
